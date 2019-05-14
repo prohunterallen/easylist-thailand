@@ -30,3 +30,7 @@ vojkud.com##[alt="Advertisement"]
 vojkudee.net###top-banner-section
 vojkudee.net##.ad-box-widget
 vojkudee.net##[alt="Advertisement"]
+https://cdn.ufa191.com/*
+https://cdnthv0.ssnn.site/*
+https://cdnthv1.ssnn.site/*
+https://*.ssnn.site/*
